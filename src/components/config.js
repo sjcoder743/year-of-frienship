@@ -21,7 +21,7 @@ const config = {
     "Why does Rheina love him more?", // Another example query
     `Rheina's birthdate (coz her bf forgets)`, // A personalized trending search
   ],
-  proTip: 'Pro tip: try searching "How long have we together?" ;)', // Helpful tip for users
+  proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
 
   // ⏳ Timer Page
   anniversaryDate: "2023-04-01", // 📅 Set your anniversary date here (used for the timer)
